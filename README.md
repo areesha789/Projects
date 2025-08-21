@@ -4,7 +4,7 @@ This project was developed as a Week 1 task. It is a simple Contact Form built u
 
 # Live Demo
 
-superb-sprite-660f2a.netlify.app
+https://superb-sprite-660f2a.netlify.app
 
 # Repository
 
