@@ -1,16 +1,16 @@
-Contact Form Project
+# Contact Form Project
 
 This project was developed as a Week 1 task. It is a simple Contact Form built using only HTML. The form allows users to enter their basic contact information and a message, which can be processed further if integrated with a backend.
 
-Live Demo
+# Live Demo
 
-Click here to view the live site
+superb-sprite-660f2a.netlify.app
 
-Repository
+# Repository
 
-GitHub Repo
+https://github.com/areesha789/Projects
 
-Features
+# Features
 
 Simple and clean user interface
 
@@ -20,11 +20,11 @@ Form validation using HTML attributes (e.g., required fields, email format)
 
 Responsive layout structure
 
-Tech Stack
+# Tech Stack
 
 HTML5
 
-Future Improvements
+# Future Improvements
 
 Add CSS for styling
 
